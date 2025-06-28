@@ -1,5 +1,5 @@
 import React from 'react'
-import RootLayout from '../layouts/rootLayout'
+import RootLayout from '../layouts/RootLayout'
 
 
 const Home = () => {
